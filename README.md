@@ -2,15 +2,15 @@
 
 ---
 
-**MorrUI**
+##**MorrUI**
 https://GitHub.com/Yangyueee91/MorrUI
 
-**OpenMorra**
+##**OpenMorra**
 https://GitHub.com/Yangyueee91/OpenMorra
 
 ---
 
-Morra-斯丢丢 | Tsukiじうい | TOTAL | 🈷
-Keep doing & Keep loving
+Morra-Studio | Tsukiじうい | TOTAL Launcher | 🈷
+Keep doing & Keep loving.
 
-酷安 Coolapk 传送门：https://www.coolapk.com/u/19725581
+酷安传送门：https://www.coolapk.com/u/19725581
