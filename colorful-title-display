@@ -1,0 +1,7 @@
+{
+background: -webkit-linear-gradient(left,#5B95F6 ,#35F195 25%, #5B95F6 50%, #35F195 75%, #5B95F6);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+-webkit-background-size: 200% 100%;
+-webkit-animation: hi2 1s,runs 3s infinite linear;
+}
