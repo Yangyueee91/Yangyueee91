@@ -7,7 +7,7 @@ Keep doing & Keep loving.
 ---
 
 ### **MorrUI**
-[查看链接存储库↗](https://GitHub.com/Yangyueee91/MorrUI)
+[查看仓库 ➔](https://GitHub.com/Yangyueee91/MorrUI)
 
 ### **OpenMorra**
-[查看存储库↗](https://GitHub.com/Yangyueee91/OpenMorra)
+[查看仓库 ➔](https://GitHub.com/Yangyueee91/OpenMorra)
