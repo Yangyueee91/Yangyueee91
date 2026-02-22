@@ -1,6 +1,4 @@
-Morra-Studio | Tsukiじうい | TOTAL Launcher | 🈷
-
-Keep doing & Keep loving.
+MorraTech Studio | Tsukiじうい
 
 酷安传送门：[@Yangyueee](https://www.coolapk.com/u/19725581)
 
